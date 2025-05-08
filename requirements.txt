@@ -1,7 +1,8 @@
-
 pandas
 scikit-learn
 matplotlib
 transformers
 torch
 pyod
+notebook
+ipykernel
